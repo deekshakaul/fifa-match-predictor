@@ -1,3 +1,9 @@
+# Environment variables - no need to push this
+.env
+
+# Auto-generated knowledge base -  if file not present will be created when running the first prompt
+context_store.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
